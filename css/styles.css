@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     background-color:#fff;
-    color:#2e2f42;;
+    color:#434445;;
 }
 .logo-web {font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -13,8 +13,7 @@ body {
 .logo-studio {color:#2e2f42;}
 .nav-main {font-style: normal}
 adress {font-weight:400; font-size: 16px; color: #434445;font-style: normal;}
-.main-section {background-color:#2e2f42;width: 1440px;
-    height: 600px;}
+.main-section {background-color:#2e2f42;}
 h1 {font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
@@ -31,6 +30,5 @@ p {font-weight: 400; font-size: 16px;}
 ul{list-style-type: none}
 a{text-decoration:none;}
 
-footer {background-color: #2e2f42;width: 1440px;
-    height: 312px;color:#f4f4fd}
+.footer-p {background-color: #2e2f42;color:#f4f4fd;letter-spacing: 0.02em;line-height: 150%;}
 .logo-studio-footer {color:#f4f4fd;}
