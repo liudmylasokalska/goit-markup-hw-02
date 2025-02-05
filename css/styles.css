@@ -43,6 +43,7 @@ button {
     letter-spacing: 0.02em;
     color: #434455;
     font-style: normal;}
+.address-nav {font-style: normal}
     /*#endregion header*/
 /*#region main section*/
 .main-section {background-color:#2e2f42;}
